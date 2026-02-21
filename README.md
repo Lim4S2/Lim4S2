@@ -100,17 +100,3 @@ Me chamo Pedro Henrique Silveira, tenho 19 anos e sou de Leme-SP. Concluí o ens
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lim4S2=anuraghazra&show_icons=true&theme=radical)
-</p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lim4S2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
