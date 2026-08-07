@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Pedro Henrique Silveira, tenho 19 anos e sou de Leme-SP. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na FHO. "[Instagram](https://www.instagram.com/pedrosilveira.h/)".
+Me chamo Pedro Henrique Silveira, tenho 20 anos e sou de Leme-SP. Concluí o ensino médio na ETEC, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na FHO. "[Instagram](https://www.instagram.com/pedrosilveira.h/)".
 
 <p align="left">
     <a href="https://github.com/Lim4S@?tab=repositories&sort=stargazers">
